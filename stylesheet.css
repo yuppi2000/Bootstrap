@@ -1,0 +1,26 @@
+body {
+    background-color:antiquewhite;
+}
+
+img {
+    padding: 10px;
+    max-height: 120px;
+    max-width: 200px;
+    border: 3px solid pink;
+    margin: 3px;
+}
+h1,h2 {
+    text-align: center;
+    color: deeppink;
+    margin: 20px;
+    font-family: cursive;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    background-color: pink;
+    color: deeppink;
+}
